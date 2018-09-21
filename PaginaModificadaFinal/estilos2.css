@@ -1,0 +1,65 @@
+body{
+	background-color: #BC090C;
+	font-family: "Times New Roman", Times, serif;
+	color: #F5F4F4;
+  	background: url(http://www.hdfondos.eu/pictures/2016/0409/1/floor-wood-textures-backgrounds-2048x2048-wallpaper-647705.jpg);
+}
+
+.div-rigth{
+	margin-top: 50px !important;
+}
+
+.crop{
+	float:left;
+	overflow:hidden; /* IMPORTANTE */
+}
+
+.crop .image-profile{
+	height: 350px;
+	width: 90%;
+	border-radius: 50%;
+	margin-left: 5%;
+}
+
+.div-rigth{
+	overflow: hidden;
+	padding: 30px;
+}
+.titles{
+	text-align: center;
+}
+
+table {
+	margin-top: 5%;
+    font-family: Times, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+td, th {
+    border: 1px solid #0F0F0E;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #0F0F0E;
+    font-weight: bold;
+}
+
+.div-rigth a{
+	font-size: 1.5em;
+}
+
+.title-photo{
+	text-align: center; 
+	margin-bottom: 10%;
+}
+
+.container{
+	width: auto;
+	max-width: 680px;
+	padding: 0 15px;
+	background-color: #C19A6B;
+}
